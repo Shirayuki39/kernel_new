@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-MahiruShiina-v2.8-GoogleLTS-Shirayuki428"
+CONFIG_LOCALVERSION="-MahiruShiina-v3.0-GoogleLTS-Shirayuki428"
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_AUDIT=y
 CONFIG_NO_HZ=y
