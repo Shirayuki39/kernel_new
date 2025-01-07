@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-MahiruShiina-v3.2-Lindroid-GoogleLTS-Shirayuki428"
+CONFIG_LOCALVERSION="-MahiruShiina-v3.2-Halium-GoogleLTS-Shirayuki428"
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_SYSVIPC=y
 CONFIG_POSIX_MQUEUE=y
